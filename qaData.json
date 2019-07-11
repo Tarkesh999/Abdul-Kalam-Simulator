@@ -1,0 +1,200 @@
+[
+    {
+        "id": "tips",
+        "questions": [
+            "Tips for upcoming generation?"
+        ],
+        "answer": "https://abdul-kalam-mp3.s3.amazonaws.com/FOURTHINGSINLFE.mp3",
+        "prompt": "You can also ask about socio-political issues"
+    },
+    {
+        "id": "beautiful",
+        "questions": [
+            "How is your experience as President of India?"
+        ],
+        "answer" : "https://abdul-kalam-mp3.s3.amazonaws.com/Tarkesh/beautiful+years.mp3",
+        "prompt" : "you can also ask about socio-political issues"
+    },
+    {
+        "id": "brain-drain",
+        "questions": [
+            "Affects of Youth migrating from India?"
+        ],
+        "answer": "https://abdul-kalam-mp3.s3.amazonaws.com/Tarkesh/Brain+Drain.mp3",
+        "prompt": "You can also prompt users to ask another question."
+    },
+    {
+        "id": "strnweak",
+        "questions": [
+            "What are the strengths and weakness of India?"
+        ],
+        "answer": "https://abdul-kalam-mp3.s3.amazonaws.com/Tarkesh/strength+n+weakness.mp3",
+        "prompt": "You can also prompt users to ask another question."
+    },
+     {
+        "id": "achievement",
+        "questions": [
+            "What is your greatest achievement so far? President or Space Scientist?"
+        ],
+        "answer": "https://abdul-kalam-mp3.s3.amazonaws.com/Tarkesh/Outstanding+Accomplishment.mp3",
+        "prompt": "You can also prompt users to ask another question."
+    },
+     {
+        "id": "student-nation-dev",
+        "questions": [
+            "What is the student's role in nation's development?"
+        ],
+        "answer": "https://abdul-kalam-mp3.s3.amazonaws.com/Tarkesh/Student's+contribution+to+Nation.mp3",
+        "prompt": "You can also prompt users to ask another question."
+    },
+    {
+        "id": "vision2020",
+        "questions": [
+            "What is vision 2020?"
+        ],
+        "answer": "https://abdul-kalam-mp3.s3.amazonaws.com/Tarkesh/vision2020.mp3",
+        "prompt": "You can also prompt users to ask another question."
+    },
+     {
+        "id": "toolsvision",
+        "questions": [
+            "What are the tools to vision 2020?"
+        ],
+        "answer": "https://abdul-kalam-mp3.s3.amazonaws.com/Tarkesh/tools+to+vision+2020.mp3",
+        "prompt": "You can also prompt users to ask another question."
+    },
+    {
+        "id": "defeat",
+        "questions": [
+            "How did you handle defeat."
+            
+        ],
+        "answer": "https://abdul-kalam-mp3.s3.amazonaws.com/2_Defeat.mp3",
+        "prompt": "You can also prompt users to ask another question."
+    },
+    {
+        "id": "blackhole",
+        "questions": [
+            "What is black hole."
+            
+        ],
+        "answer": "https://abdul-kalam-mp3.s3.amazonaws.com/WHatisblackhole.mp3",
+        "prompt": "You can also prompt users to ask another question."
+    },
+    {
+        "id": "xxname",
+        "questions": [
+            "What is your full name."
+            
+        ],
+        "answer": "Avul Pakir Jainulabdeen Abdul Kalam",
+        "prompt": "You can also prompt users to ask another question."
+    },
+    {
+        "id": "xxparents",
+        "questions": [
+            "Parents of Abdul Kalam"
+        ],
+        "answer": "His father's name is Jainulabiddin Marakayar and his mother's name is Ashiamma",
+        "prompt": "You can also prompt users to ask another question."
+    },
+     {
+        "id": "xxdob",
+        "questions": [
+            "Date of birth"
+        ],
+        "answer": "Doctor APJ Abdul Kalam was born in Rameshwaram on fifteenth of October ninteen thirty one",
+        "prompt": "You can also prompt users to ask another question."
+    },
+    {
+        "id": "xxdeath",
+        "questions": [
+            "Death date and details"
+        ],
+        "answer": "While delivering a lecture at the I I M Shillong on twenty seventh july two thousand fifteen he collapsed due to cardiac arrest",
+        "prompt": "You can also prompt users to ask another question."
+    },
+     { 
+        "id": "xxSatish",
+        "questions": [
+            "Who is Satish Dawan"
+        ],
+        "answer": "He is the ex chairman of I S R O and ex secretary to the Government of India at the department of space",
+        "prompt": "You can also prompt users to ask another question."
+    },
+    { 
+        "id": "rbhavan",
+        "questions": [
+            "Why did you decide to reach out to the people"
+        ],
+        "answer": "https://abdul-kalam-mp3.s3.amazonaws.com/whyubecameprez.mp3",
+        "prompt": "You can also prompt users to ask another question."
+    },
+      { 
+        "id": "my_happy",
+        "questions": [
+            "mek me happy"
+        ],
+        "answer": "https://abdul-kalam-mp3.s3.amazonaws.com/gardenerhappiness.mp3",
+        "prompt": "You can also prompt users to ask another question."
+    },
+    { 
+        "id": "step_down",
+        "questions": [
+            "Step down as president"
+        ],
+        "answer": "https://abdul-kalam-mp3.s3.amazonaws.com/Goku/4_President.mp3",
+        "prompt": "You can also prompt users to ask another question."
+    },
+    { 
+        "id": "inno",
+        "questions": [
+            "How to innovate?"
+        ],
+        "answer": "https://abdul-kalam-mp3.s3.amazonaws.com/Goku/innovation.mp3",
+        "prompt": "You can also prompt users to ask another question."
+    },
+    { 
+        "id": "oth_happy",
+        "questions": [
+            "How to make other happy?"
+        ],
+        "answer": "https://abdul-kalam-mp3.s3.amazonaws.com/Goku/oth_happy.mp3",
+        "prompt": "You can also prompt users to ask another question."
+    },
+    { 
+        "id": "reachout",
+        "questions": [
+            "How to make reachout?"
+        ],
+        "answer": "https://abdul-kalam-mp3.s3.amazonaws.com/whyubecameprez.mp3",
+        "prompt": "You can also prompt users to ask another question."
+    },
+    { 
+        "id": "elect",
+        "questions": [
+            "what is your view on elections"
+        ],
+        "answer": "https://abdul-kalam-mp3.s3.amazonaws.com/elections.mp3",
+        "prompt": "You can also prompt users to ask another question."
+    },
+    { 
+        "id": "dem",
+        "questions": [
+            "what is your view on democracy"
+        ],
+        "answer": "https://abdul-kalam-mp3.s3.amazonaws.com/RATEDEMOCRACY.mp3",
+        "prompt": "You can also prompt users to ask another question."
+    },
+     { 
+        "id": "edu",
+        "questions": [
+            "what is your view on education"
+        ],
+        "answer": "https://abdul-kalam-mp3.s3.amazonaws.com/educationapj.mp3",
+        "prompt": "You can also prompt users to ask another question."
+    },
+   
+   
+   
+]
